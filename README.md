@@ -1,3 +1,4 @@
+🔗 **Live Demo:** https://agentverse-frontend-eight.vercel.app
 # AGENTVERSE Frontend Handoff
 
 This package contains the AGENTVERSE React/Vite frontend source prepared for integration with the team's backend and AI-agent system.
